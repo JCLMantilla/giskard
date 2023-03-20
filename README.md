@@ -1,2 +1,2 @@
-# giskard
+# Giskard
 Giskard Case study
