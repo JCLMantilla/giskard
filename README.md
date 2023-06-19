@@ -1,2 +1,2 @@
 # Giskard
-Giskard Case study
+Giskard Case study for the data science intern position
